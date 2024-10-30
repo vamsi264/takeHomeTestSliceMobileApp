@@ -53,8 +53,8 @@ and `Windows`.
 ## Quick Start
 
 ```bash
-    git clone git@gitlab.*/paraspara_mobile_app_automation_ui_qa.git
-    cd paraspara_mobile_app_automation_ui_qa
+    git clone project.git
+    cd project
     gradlew init
 ```
 
