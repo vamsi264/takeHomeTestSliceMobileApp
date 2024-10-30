@@ -88,5 +88,5 @@ Running tests on specified environment:
 
 Serenity auto-generates a test report for each run, which can be viewed
 through [index.html](target/site/serenity/index.html) in any desired browser.
-
+![screencapture-file-Users-work-IdeaProjects-TestProjects-TestingSliceMobileApp-target-site-serenity-index-html-2024-10-30-14_40_30.png](screencapture-file-Users-work-IdeaProjects-TestProjects-TestingSliceMobileApp-target-site-serenity-index-html-2024-10-30-14_40_30.png)
 &copy; 2024 Test Application 
